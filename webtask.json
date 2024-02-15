@@ -5,7 +5,7 @@
     "author": "auth0",
     "description": "This is a test extension",
     "type": "application",
-    "repository": "https://github.com/adamauth/test-extension",
+    "repository": "https://github.com/joshbetz/test-extension",
     "secrets": {
       "TEST_SECRET": {
         "description": "test",
@@ -16,5 +16,5 @@
       "auth0",
       "extension"
     ],
-    "codeUrl": "https://raw.githubusercontent.com/adamauth/test-extension/master/index.js"
+    "codeUrl": "https://raw.githubusercontent.com/joshbetz/test-extension/master/index.js"
   }
