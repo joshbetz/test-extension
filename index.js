@@ -1,4 +1,4 @@
 module.exports = function (cb) {
-  console.log('hi1');
-  cb(null, 'hello world!777');
+  console.log(process.version);
+  cb(null, `${process.version}`);
 }
