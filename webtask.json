@@ -1,6 +1,7 @@
   {
     "title": "Test Extension",
     "name": "test-extension",
+    "useHashName": false,
     "version": "1.0.0",
     "author": "auth0",
     "description": "This is a test extension",
